@@ -257,6 +257,7 @@ button {
 }
 .team-list {
   display: flex;
+  justify-content: center;
   gap: 24px;
 }
 .team-item {
